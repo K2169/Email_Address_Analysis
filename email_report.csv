@@ -1,0 +1,28 @@
+Domain,Category,Username,Count
+gmail,Public,krishnamp2120,1
+gmail,Public,krishnamk2120,1
+gmail,Public,khannaashi,1
+gmail,Public,leomessi10,1
+outlook,Public,kiaraadvani,1
+outlook,Public,srk,1
+outlook,Public,kohlivirat18,1
+outlook,Public,bacchanamitabh,1
+yahoo,Public,shraddhakapoor,1
+yahoo,Public,captaincool,1
+spacex,Corporate,muskelon,1
+openai,Corporate,altmansam,1
+under25,Corporate,leodicaprio,1
+godfather,Corporate,pacinoal,1
+ina,Corporate,netajibose,1
+apple,Corporate,jobssteve,1
+,,,
+Summary,,,
+Total emails processed: 19,,,
+Valid emails processed: 16,,,
+Invalid emails processed: 3,,,
+Most common domain: gmail (4 occurrences),,,
+Most common public domain: gmail (4 occurrences),,,
+Most common corporate domains:,,,
+spacex (1 occurrences),,,
+openai (1 occurrences),,,
+under25 (1 occurrences),,,
